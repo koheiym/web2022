@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react" assert{type:json};
-import { fetchData } from "./api" assert{type:json};
+import { useEffect, useState } from "react";
+import { fetchData } from "./api";
 
 function Header() {
   return (
